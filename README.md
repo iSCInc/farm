@@ -6,7 +6,7 @@
     |_\____/ \____/  \___/_| |_|\___(_)   \_/\_/ |_|_|\_\_| |_| \__,_|_|  |_| |_| |_|
 ====
 
-The *official website* of the **wiki farm iSC Inc.**.
+The *official website* of the *wiki* farm **iSC Inc.**.
 
 
 ----
