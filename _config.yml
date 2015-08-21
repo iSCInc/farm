@@ -1,0 +1,19 @@
+# Site settings
+
+title: iSC Inc. Wiki Farm
+description: The collaborate wiki farm of iSC Inc.
+
+baseurl: "/farm"
+url: "http://iscinc.github.io"
+files_url: http://iscinc.github.io/assets/
+
+email: github@inc.isc
+
+google_analytics_id: UA-54991804-4
+
+repository: https://github.com/iSCInc/farm
+
+gems:
+  - jekyll-sitemap
+  - jemoji
+  - jekyll-mentions
