@@ -13,7 +13,20 @@ google_analytics_id: UA-54991804-4
 
 repository: https://github.com/iSCInc/farm
 
-gems:
-  - jekyll-sitemap
-  - jemoji
-  - jekyll-mentions
+# Where things are
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+layouts:     ./_layouts
+data_source: ./_data
+collections: null
+
+# Plugins
+whitelist: []
+gems:      ["jekyll-sitemap", "jemoji", "jekyll-mentions"]
+
+# Serving
+detach:  false
+port:    4000
+host:    127.0.0.1
+baseurl: "" # does not include hostname
